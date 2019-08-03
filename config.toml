@@ -1,0 +1,4 @@
+baseURL = "https://test.cfw4.tokyo/"
+languageCode = "ja"
+title = "あんなことやこんなこと"
+theme = "tale"
